@@ -1,4 +1,7 @@
+
 # Introduction to the JAMstack
+
+Knowledge is power
 
 This is the code for a Frontend Masters workshop. In this workshop, we’ll learn what the JAMstack is, what it’s capable of, and how we can use it to build full-featured apps with less complexity and overhead.
 
